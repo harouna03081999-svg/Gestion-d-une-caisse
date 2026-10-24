@@ -5,3 +5,4 @@ const prix_stylo = 500;
 const quantite_stylo = 3;
 const montant_cahier = prix_cahier*qauntite_cahier;
 const montant_stylo = prix_stylo* quantite_stylo;
+const montant_total_achat = montant_cahier + montant_stylo
